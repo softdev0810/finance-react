@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App].
+This project was bootstrapped with [Create React App](http://localhost:3000).
 
 ## Available Scripts
 
